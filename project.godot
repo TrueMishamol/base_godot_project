@@ -17,6 +17,10 @@ boot_splash/bg_color=Color(0.87451, 0.439216, 0.219608, 1)
 boot_splash/image="res://ui/app_icons/boot_screen.png"
 config/icon="res://ui/app_icons/appicon.png"
 
+[autoload]
+
+ApplicationControls="*res://scripts/application_controls.gd"
+
 [display]
 
 window/size/viewport_width=1280
