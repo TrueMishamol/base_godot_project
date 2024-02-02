@@ -11,9 +11,32 @@ config_version=5
 [application]
 
 config/name="Mishamol's Game"
+run/main_scene="res://levels/node_2d.tscn"
 config/features=PackedStringArray("4.2", "Mobile")
-config/icon="res://icon.svg"
+boot_splash/bg_color=Color(0.87451, 0.439216, 0.219608, 1)
+boot_splash/image="res://ui/app_icons/boot_screen.png"
+config/icon="res://ui/app_icons/appicon.png"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+
+[file_customization]
+
+folder_colors={
+"res://addons/": "red",
+"res://audio/": "pink",
+"res://levels/": "purple",
+"res://nodes/": "blue",
+"res://scripts/": "green",
+"res://ui/": "yellow",
+"res://visuals/": "orange"
+}
 
 [rendering]
 
 renderer/rendering_method="mobile"
+environment/defaults/default_clear_color=Color(0.545098, 0.545098, 0.611765, 1)
