@@ -1,5 +1,3 @@
-# Put in Autoload
-
 extends Node
 
 
