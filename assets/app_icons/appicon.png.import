@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://de6eerxx5yof6"
-path="res://.godot/imported/boot_screen.png-844600b145c07be7d2fc8e668e9479e6.ctex"
+uid="uid://5rs3623tskf4"
+path="res://.godot/imported/appicon.png-a703715a586bbeba65aa2045105d93ef.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ui/app_icons/boot_screen.png"
-dest_files=["res://.godot/imported/boot_screen.png-844600b145c07be7d2fc8e668e9479e6.ctex"]
+source_file="res://assets/app_icons/appicon.png"
+dest_files=["res://.godot/imported/appicon.png-a703715a586bbeba65aa2045105d93ef.ctex"]
 
 [params]
 
