@@ -1,0 +1,22 @@
+###########
+## Local ##
+###########
+
+## System files
+desktop.ini
+desktop.ini.meta
+.directory
+*.DS_Store
+*.lnk
+*.log
+
+## Temporary Files
+*.*~
+*-autosave.kra
+*.blend1
+
+## Private Folders and Files
+*~/
+~*/
+~*.*
+*~.*
